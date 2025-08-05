@@ -2,8 +2,8 @@
 Cybersecurity- �� Currently learning: Spring Boot, MongoDB, and GitHub Actions
 �� Fun Fact: I once debugged a 50-line error just by adding a semicolon
 ## ��️ Skills &amp; Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-
-badge&amp;logo=java&amp;logoColor=white)
+![Java](https://img.shields.io/badge/Java?style=flat&logo=appveyor&logoColor=red&logoSize=auto&label=healthiness&labelColor=abcdef&color=fedrdsa&cacheSeconds=3500
+)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-
 badge&amp;logo=spring-boot&amp;logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-
